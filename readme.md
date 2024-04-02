@@ -8,4 +8,4 @@ In this project, you’ll build a decimal-to-binary converter using JavaScript. 
 
 ## Live Demo
 
-[Live Demo](https://Live-demo-Here.app/)
+[Live Demo](https://sparkly-treacle-99edde.netlify.app/)
